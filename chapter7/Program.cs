@@ -146,35 +146,10 @@ namespace chapter7
                     }                    
                 }
             }
-
-            /*
-            for (int row = 0; row < totalRows -1; row++)
-            {
-                for (int column = 0; column < totalColumns-1; column++)
-                {
-                    for (int dRow = row, dColumn = column; dRow < totalRows-1 && dColumn < totalColumns-1; dRow++, dColumn++)
-                    {
-                        if (stringArray[row, column] == stringArray[row + 1, column + 1])
-                        {
-                            count++;
-                            if (count > longestFoundLength)
-                            {
-                                longestFoundLength = count;
-                                longestStringSequence = stringArray[row, column];
-                            }
-                        }
-                        else
-                        {
-                            count = 1;
-                        }
-
-                    }
-                }
-            }
-            */
-            Console.WriteLine();
-            Console.WriteLine("Previous string = "+previousString);
-            Console.WriteLine("Count:"+count);
+            
+            //Console.WriteLine();
+            //Console.WriteLine("Previous string = "+previousString);
+            //Console.WriteLine("Count:"+count);
             Console.WriteLine("The longest string is: " + longestStringSequence);
             Console.WriteLine("It occured " + longestFoundLength + " times");
             
