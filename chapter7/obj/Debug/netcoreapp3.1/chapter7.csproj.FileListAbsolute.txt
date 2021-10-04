@@ -1,0 +1,14 @@
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.csproj.AssemblyReference.cache
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.AssemblyInfoInputs.cache
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.AssemblyInfo.cs
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.csproj.CoreCompileInputs.cache
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\bin\Debug\netcoreapp3.1\chapter7.exe
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\bin\Debug\netcoreapp3.1\chapter7.deps.json
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\bin\Debug\netcoreapp3.1\chapter7.runtimeconfig.json
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\bin\Debug\netcoreapp3.1\chapter7.runtimeconfig.dev.json
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\bin\Debug\netcoreapp3.1\chapter7.dll
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\bin\Debug\netcoreapp3.1\chapter7.pdb
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.dll
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.pdb
+C:\Users\tyler.santi\Documents\git\Homework\chapter7\chapter7\chapter7\obj\Debug\netcoreapp3.1\chapter7.genruntimeconfig.cache
